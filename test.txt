@@ -1,1 +1,2 @@
-try to remove a file
+try to remove a file!
+try to connect GitHub!
